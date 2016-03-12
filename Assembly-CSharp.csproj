@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\Agent.cs" />
      <Compile Include="Assets\Scripts\Grid.cs" />
      <Compile Include="Assets\Scripts\Waypoint.cs" />
+     <None Include="Assets\AnimationImporter\readme.txt" />
      <None Include="Assets\Fonts\OFL.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

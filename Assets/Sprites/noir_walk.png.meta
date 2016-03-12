@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: fa6fd31b5e2449f44b8c1d9b2be00eed
+timeCreated: 1457806683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: noir_walk 0
+    21300002: noir_walk 1
+    21300004: noir_walk 2
+    21300006: noir_walk 3
+    21300008: noir_walk 4
+    21300010: noir_walk 5
+    21300012: noir_walk 6
+    21300014: noir_walk 7
+    21300016: noir_walk 8
+    21300018: noir_walk 9
+    21300020: noir_walk 10
+    21300022: noir_walk 11
+    21300024: noir_walk 12
+    21300026: noir_walk 13
+    21300028: noir_walk 14
+    21300030: noir_walk 15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: noir_walk 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 43}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 20, y: 84}
+    - name: noir_walk 1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 43}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 20, y: 84}
+    - name: noir_walk 2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 11}
+        - {x: 27, y: 47}
+        - {x: 20, y: 77}
+        - {x: 12, y: 84}
+        - {x: -15, y: 84}
+        - {x: -26, y: 74}
+        - {x: -26, y: 57}
+        - {x: -23, y: 46}
+        - {x: -15, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: 2}
+        - {x: 6, y: 0}
+        - {x: 24, y: 0}
+    - name: noir_walk 3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 83}
+        - {x: -15, y: 83}
+        - {x: -26, y: 72}
+        - {x: -26, y: 57}
+        - {x: -25, y: 53}
+        - {x: -21, y: 46}
+        - {x: -13, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 1}
+        - {x: 27, y: 7}
+        - {x: 27, y: 57}
+    - name: noir_walk 4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 84}
+        - {x: -16, y: 84}
+        - {x: -26, y: 77}
+        - {x: -26, y: 38}
+        - {x: -18, y: 0}
+        - {x: 23, y: 0}
+        - {x: 27, y: 4}
+        - {x: 27, y: 68}
+        - {x: 23, y: 79}
+    - name: noir_walk 5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 83}
+        - {x: -26, y: 76}
+        - {x: -26, y: 35}
+        - {x: -18, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 73}
+        - {x: 22, y: 83}
+    - name: noir_walk 6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 81}
+        - {x: 13, y: 84}
+        - {x: -20, y: 84}
+        - {x: -26, y: 77}
+        - {x: -26, y: 46}
+        - {x: -15, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 1}
+        - {x: 27, y: 12}
+        - {x: 27, y: 61}
+    - name: noir_walk 7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 43}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 20, y: 84}
+    - name: noir_walk 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 43}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 20, y: 84}
+    - name: noir_walk 9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 43}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 20, y: 84}
+    - name: noir_walk 10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 0}
+        - {x: 27, y: 61}
+        - {x: 17, y: 84}
+        - {x: -24, y: 84}
+        - {x: -26, y: 76}
+        - {x: -26, y: 52}
+        - {x: -12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: 4}
+        - {x: 4, y: 9}
+        - {x: 13, y: 0}
+    - name: noir_walk 11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: 21, y: 0}
+        - {x: 24, y: 1}
+        - {x: 26, y: 8}
+        - {x: 26, y: 81}
+        - {x: 17, y: 84}
+        - {x: -26, y: 84}
+        - {x: -26, y: 29}
+        - {x: -15, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 2}
+        - {x: 5, y: 7}
+        - {x: 8, y: 4}
+    - name: noir_walk 12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 84}
+        - {x: -8, y: 84}
+        - {x: -20, y: 81}
+        - {x: -25, y: 78}
+        - {x: -25, y: 51}
+        - {x: -11, y: 0}
+        - {x: 18, y: 0}
+        - {x: 25, y: 10}
+        - {x: 25, y: 45}
+        - {x: 20, y: 75}
+    - name: noir_walk 13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 83}
+        - {x: -19, y: 78}
+        - {x: -27, y: 69}
+        - {x: -27, y: 51}
+        - {x: -9, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 74}
+        - {x: 16, y: 83}
+    - name: noir_walk 14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 84}
+        - {x: -26, y: 30}
+        - {x: -15, y: 0}
+        - {x: 22, y: 0}
+        - {x: 27, y: 7}
+        - {x: 27, y: 84}
+    - name: noir_walk 15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 56
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 84}
+        - {x: -26, y: 79}
+        - {x: -26, y: 51}
+        - {x: -15, y: 5}
+        - {x: -10, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 78}
+        - {x: 21, y: 84}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
