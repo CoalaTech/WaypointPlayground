@@ -1,15 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Agent : MonoBehaviour {
+public class Agent : MonoBehaviour
+{
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+	{
 	
 	}
 	
 	// Update is called once per frame
-	void Update () {
-	
+	public void Update ()
+	{
+		
+	}
+
+	void OnDrawGizmos ()
+	{
+		Gizmos.DrawSphere (transform.position, 1.0f);
 	}
 }
